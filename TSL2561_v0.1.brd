@@ -2689,9 +2689,9 @@ chip</description>
 <signal name="INT">
 <contactref element="U1" pad="INT"/>
 <contactref element="JP1" pad="3"/>
-<wire x1="8.89" y1="6.858" x2="8.89" y2="8.09" width="0.254" layer="1"/>
-<wire x1="7.62" y1="6.858" x2="8.89" y2="6.858" width="0.254" layer="1"/>
-<wire x1="7.62" y1="2.54" x2="7.62" y2="6.858" width="0.254" layer="1"/>
+<wire x1="8.89" y1="5.334" x2="8.89" y2="8.09" width="0.254" layer="1"/>
+<wire x1="7.62" y1="4.064" x2="8.89" y2="5.334" width="0.254" layer="1"/>
+<wire x1="7.62" y1="2.54" x2="7.62" y2="4.064" width="0.254" layer="1"/>
 </signal>
 <signal name="ADDR">
 <contactref element="U1" pad="ADR"/>
